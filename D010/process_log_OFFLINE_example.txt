@@ -1,0 +1,9 @@
+[2026-10-29] SOURCE CHECK: https://pokemondb.net/pokedex/all (web retrieval)
+[2026-10-29] ROBOTS CHECK: https://pokemondb.net/robots.txt (web retrieval), Crawl-delay: 2 for User-agent *
+[2026-10-29] CONNECTION: direct HTTP from file-generation environment failed (DNS); live scraping NOT performed here
+[2026-10-29] FALLBACK: 70-row verified public-table transcription, national No. 1-70 base entries, not random sample
+[2026-10-29] DATA INTEGRITY: rows=70, national_no unique=True, total=sum(6 stats) all=True
+[2026-10-29] MISSING: second type missing=41 (single-type; not an error)
+[2026-10-29] ANALYSIS: type counts, type mean stats, attack-speed scatter, ranking, correlations
+[2026-10-29] EXPORT: pokemon_verified_70.csv / pokemon_type_summary_70.csv / assets/*.png
+[2026-10-29] LIMITATION: results cover early National Dex entries only; cannot be generalized to all generations or game outcomes
