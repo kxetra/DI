@@ -1,0 +1,10 @@
+# Local Python / editor files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+# Do not accidentally commit course handouts or secrets
+*.key
+*.pem
