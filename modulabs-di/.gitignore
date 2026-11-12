@@ -1,0 +1,7 @@
+# 대회 데이터는 공개 저장소에 올리지 않는다 (비공개 대회 데이터)
+train.csv
+test.csv
+sample_submission.csv
+# 대회 제공 템플릿 노트북
+Test_Notebook_House_Prices_Prediction.ipynb
+.ipynb_checkpoints/
